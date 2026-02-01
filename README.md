@@ -1,4 +1,4 @@
-# Lovable - STEAM Guess Who
+# STEAM Who?
 
 **Benvenuto in Lovable - STEAM Guess Who!**  
 Un’applicazione interattiva che ti permette di giocare a **indovinare personaggi famosi del mondo STEAM** (Scienza, Tecnologia, Ingegneria, Arte e Matematica).  
