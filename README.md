@@ -40,49 +40,47 @@ npm i
 # Passo 4: Avvia il server di sviluppo con ricarica automatica e anteprima istantanea
 npm run dev
 ```
-Modifica un file direttamente su GitHub
+## Modifica un file direttamente su GitHub
 
-Vai al file che vuoi modificare.
+- Vai al file che vuoi modificare.  
+- Clicca sul pulsante **Modifica** (icona a matita) in alto a destra.  
+- Apporta le modifiche e conferma il commit.
 
-Clicca sul pulsante "Modifica" (icona a matita) in alto a destra.
+---
 
-Apporta le modifiche e conferma il commit.
+## Usa GitHub Codespaces
 
-Usa GitHub Codespaces
+- Vai alla pagina principale del repository.  
+- Clicca sul pulsante verde **Code** in alto a destra.  
+- Seleziona la scheda **Codespaces**.  
+- Clicca su **New codespace** per aprire un ambiente Codespace.  
+- Modifica i file direttamente in Codespace e invia le modifiche quando hai finito.
 
-Vai alla pagina principale del repository.
+---
 
-Clicca sul pulsante verde Code in alto a destra.
-
-Seleziona la scheda Codespaces.
-
-Clicca su New codespace per aprire un ambiente Codespace.
-
-Modifica i file direttamente in Codespace e invia le modifiche quando hai finito.
-
-Quali tecnologie vengono utilizzate in questo progetto?
+## Quali tecnologie vengono utilizzate in questo progetto?
 
 Questo progetto è costruito con:
 
-Vite
+- Vite  
+- TypeScript  
+- React  
+- shadcn-ui  
+- Tailwind CSS  
 
-TypeScript
+---
 
-React
+## Come posso distribuire questo progetto?
 
-shadcn-ui
+Apri semplicemente **Lovable** e clicca su **Share → Publish**.
 
-Tailwind CSS
+---
 
-Come posso distribuire questo progetto?
+## Posso collegare un dominio personalizzato al mio progetto Lovable?
 
-Apri semplicemente Lovable
- e clicca su Share → Publish.
+Sì, è possibile!  
 
-Posso collegare un dominio personalizzato al mio progetto Lovable?
+Per collegare un dominio, vai su **Project → Settings → Domains** e clicca su **Connect Domain**.  
 
-Sì, è possibile!
+Leggi di più qui: [Configurare un dominio personalizzato](https://docs.lovable.dev/features/custom-domain#custom-domain)
 
-Per collegare un dominio, vai su Project → Settings → Domains e clicca su Connect Domain.
-
-Leggi di più qui: Configurare un dominio personalizzato
