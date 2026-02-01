@@ -39,3 +39,50 @@ npm i
 
 # Passo 4: Avvia il server di sviluppo con ricarica automatica e anteprima istantanea
 npm run dev
+```
+Modifica un file direttamente su GitHub
+
+Vai al file che vuoi modificare.
+
+Clicca sul pulsante "Modifica" (icona a matita) in alto a destra.
+
+Apporta le modifiche e conferma il commit.
+
+Usa GitHub Codespaces
+
+Vai alla pagina principale del repository.
+
+Clicca sul pulsante verde Code in alto a destra.
+
+Seleziona la scheda Codespaces.
+
+Clicca su New codespace per aprire un ambiente Codespace.
+
+Modifica i file direttamente in Codespace e invia le modifiche quando hai finito.
+
+Quali tecnologie vengono utilizzate in questo progetto?
+
+Questo progetto è costruito con:
+
+Vite
+
+TypeScript
+
+React
+
+shadcn-ui
+
+Tailwind CSS
+
+Come posso distribuire questo progetto?
+
+Apri semplicemente Lovable
+ e clicca su Share → Publish.
+
+Posso collegare un dominio personalizzato al mio progetto Lovable?
+
+Sì, è possibile!
+
+Per collegare un dominio, vai su Project → Settings → Domains e clicca su Connect Domain.
+
+Leggi di più qui: Configurare un dominio personalizzato
