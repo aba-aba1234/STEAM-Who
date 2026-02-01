@@ -21,7 +21,6 @@ Un’applicazione interattiva che ti permette di giocare a **indovinare personag
 - Include **almeno 24 personaggi STEAM** con informazioni come anno di nascita, ambito, premi.  
 - Domande intelligenti basate sulle caratteristiche dei personaggi.  
 - Interfaccia chiara e interattiva con **bottoni e immagini**.  
-- Realizzata con **React, TypeScript, Tailwind CSS e shadcn-ui**.  
 
 ---
 
