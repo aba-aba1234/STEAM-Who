@@ -1,86 +1,40 @@
-# Benvenuto nel tuo progetto Lovable
+# Lovable - STEAM Guess Who
 
-## Informazioni sul progetto
+**Benvenuto in Lovable - STEAM Guess Who!**  
+Un’applicazione interattiva che ti permette di giocare a **indovinare personaggi famosi del mondo STEAM** (Scienza, Tecnologia, Ingegneria, Arte e Matematica).  
 
-**URL**: https://guess-who-steam.lovable.app
-
----
-
-## Come posso modificare questo codice?
-
-Ci sono diversi modi per modificare la tua applicazione.
-
-### **Usa Lovable**
-
-Visita semplicemente il [Progetto Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) e inizia a dare i tuoi comandi.  
-
-Le modifiche fatte tramite Lovable saranno automaticamente salvate nel repository.
+**Prova l’app qui:** [https://guess-who-steam.lovable.app](https://guess-who-steam.lovable.app)
 
 ---
 
-### **Usa il tuo IDE preferito**
+## 🎮 Come funziona il gioco
 
-Se vuoi lavorare localmente con il tuo IDE, puoi clonare il repository e inviare le modifiche.  
-Le modifiche inviate saranno visibili anche in Lovable.  
-
-**Requisiti:** Node.js e npm installati – [installa tramite nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Segui questi passaggi:
-
-```sh
-# Passo 1: Clona il repository usando l'URL Git del progetto
-git clone <IL_TUO_URL_GIT>
-
-# Passo 2: Vai nella cartella del progetto
-cd <NOME_DEL_PROGETTO>
-
-# Passo 3: Installa le dipendenze necessarie
-npm i
-
-# Passo 4: Avvia il server di sviluppo con ricarica automatica e anteprima istantanea
-npm run dev
-```
-## Modifica un file direttamente su GitHub
-
-- Vai al file che vuoi modificare.  
-- Clicca sul pulsante **Modifica** (icona a matita) in alto a destra.  
-- Apporta le modifiche e conferma il commit.
+1. L’utente pensa a un personaggio STEAM tra quelli disponibili.  
+2. Il programma fa una serie di domande a risposta **Sì/No**.  
+3. In base alle risposte, l’app cerca di **indovinare il personaggio** scelto.  
+4. Il gioco termina quando il personaggio è indovinato o quando non ci sono più opzioni disponibili.  
 
 ---
 
-## Usa GitHub Codespaces
+## 📂 Caratteristiche principali
 
-- Vai alla pagina principale del repository.  
-- Clicca sul pulsante verde **Code** in alto a destra.  
-- Seleziona la scheda **Codespaces**.  
-- Clicca su **New codespace** per aprire un ambiente Codespace.  
-- Modifica i file direttamente in Codespace e invia le modifiche quando hai finito.
-
----
-
-## Quali tecnologie vengono utilizzate in questo progetto?
-
-Questo progetto è costruito con:
-
-- Vite  
-- TypeScript  
-- React  
-- shadcn-ui  
-- Tailwind CSS  
+- Include **almeno 20 personaggi STEAM** con informazioni come anno di nascita, ambito, premi.  
+- Domande intelligenti basate sulle caratteristiche dei personaggi.  
+- Interfaccia chiara e interattiva con **bottoni e immagini**.  
+- Realizzata con **React, TypeScript, Tailwind CSS e shadcn-ui**.  
 
 ---
 
-## Come posso distribuire questo progetto?
+## 🖼️ Screenshot
 
-Apri semplicemente **Lovable** e clicca su **Share → Publish**.
+*(inserisci qui immagini o GIF dell’app per mostrare l’interfaccia e le domande)*
 
 ---
 
-## Posso collegare un dominio personalizzato al mio progetto Lovable?
+## ⚙️ Tecnologie utilizzate
 
-Sì, è possibile!  
-
-Per collegare un dominio, vai su **Project → Settings → Domains** e clicca su **Connect Domain**.  
-
-Leggi di più qui: [Configurare un dominio personalizzato](https://docs.lovable.dev/features/custom-domain#custom-domain)
-
+- **React**  
+- **TypeScript**  
+- **Tailwind CSS**  
+- **shadcn-ui**  
+- **Vite** per lo sviluppo rapido e l’anteprima in tempo reale
