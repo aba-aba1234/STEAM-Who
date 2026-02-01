@@ -2,7 +2,7 @@
 
 ## Informazioni sul progetto
 
-**URL**: [https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID)
+**URL**: [[https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID)](https://guess-who-steam.lovable.app/)
 
 ---
 
