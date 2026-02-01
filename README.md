@@ -27,7 +27,7 @@ Un’applicazione interattiva che ti permette di giocare a **indovinare personag
 
 ## 🖼️ Screenshot
 
-*(inserisci qui immagini o GIF dell’app per mostrare l’interfaccia e le domande)*
+![Interfaccia del gioco](img/Interfaccia%20STEAM%20Who.png)
 
 ---
 
